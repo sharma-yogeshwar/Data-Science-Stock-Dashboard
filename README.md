@@ -18,28 +18,25 @@ It demonstrates how to fetch company information, stock price history, and divid
 2. Importing required libraries  
    ![Import Libraries](STOCK%20DATA%20PROJECT/Import%20Libraries.png)  
 
-3. Getting Apple information from yfinance  
+3. Getting Metadata from yfinance  
    ![Company Info](STOCK%20DATA%20PROJECT/Company%20Info.png)  
 
-4. Extracted metadata for Apple  
-   ![Metadata](STOCK%20DATA%20PROJECT/Metadata%20for%20Apple.png)  
-
-5. Extracting Apple stock price data  
+4. Extracting Apple stock price data  
    ![Stock Price](STOCK%20DATA%20PROJECT/Extract%20Stock%20Price.png)  
 
-6. Plotting Apple stock price data  
+5. Plotting Apple stock price data  
    ![Apple Plot](STOCK%20DATA%20PROJECT/Plotting%20the%20Data.png)  
 
-7. Extracting and plotting Apple dividends  
+6. Extracting and plotting Apple dividends  
    ![Dividends](STOCK%20DATA%20PROJECT/Extracting%20the%20Divident.png)  
 
-8. Extracting AMD stock price data  
+7. Extracting AMD stock price data  
    ![AMD Data](STOCK%20DATA%20PROJECT/Data%20for%20AMD.png)  
 
-9. Plotting AMD stock price data  
+8. Plotting AMD stock price data  
    ![AMD Plot](STOCK%20DATA%20PROJECT/Plotting%20the%20Data%20for%20AMD.png)  
 
-10. Final summary of results  
+9. Final summary  
    ![Summary](STOCK%20DATA%20PROJECT/Summary.png)
 
 
