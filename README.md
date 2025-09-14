@@ -19,7 +19,7 @@ It demonstrates how to fetch company information, stock price history, and divid
    ![Import Libraries](STOCK%20DATA%20PROJECT/Import%20Libraries.png)  
 
 3. Getting Metadata from yfinance  
-   ![Company Info](STOCK%20DATA%20PROJECT/Metadata%for%Apple.png)  
+   ![Metadata](STOCK%20DATA%20PROJECT/Metadata%20for%20Apple.png)  
 
 4. Extracting Apple stock price data  
    ![Stock Price](STOCK%20DATA%20PROJECT/Extract%20Stock%20Price.png)  
