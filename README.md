@@ -42,9 +42,6 @@ It demonstrates how to fetch company information, stock price history, and divid
 10. Final summary of results  
    ![Summary](STOCK%20DATA%20PROJECT/Summary.png)
 
-##  How to view
-1. Open the notebook directly in GitHub.
-2. Download and open in **Jupyter Notebook**.
 
 ##  Author
 **Yogeshwar Sharma**
